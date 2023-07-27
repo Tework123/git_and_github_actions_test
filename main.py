@@ -1,5 +1,5 @@
 print(1)
-
+print(2)
 
 def someasdaa():
     print(1)
